@@ -12,5 +12,3 @@
     currently: Elevating_oneself_by_climbing_the_rope
   }
 ```
-
-<br/>
