@@ -7,8 +7,10 @@
     Name: "Ashkan Jahan",
     university: "coming soon...",
     languages: ["*.js(advantage)"],
-    tools: ["HTML/CSS" , "TAILWIND/BOOTSTRAP" , "JAVASCRIPTI(ES6...)", "GIT/GITHUB"]
+    tools: ["HTML/CSS" , "TAILWIND/BOOTSTRAP" , "JAVASCRIPTI(ES6...)", "GIT/GITHUB"],
     quote: "When there's a goal, the path can be found.",
     currently: Elevating_oneself_by_climbing_the_rope
   }
 ```
+
+<br/>
