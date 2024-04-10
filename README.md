@@ -6,8 +6,8 @@
   data: {
     Name: "Ashkan Jahan",
     university: "coming soon...",
-    languages: ["*.js(advanced)"],
-    tools: ["HTML/CSS" , "TAILWIND/BOOTSTRAP" , "JAVASCRIPTI(ES6...)","REACTJS", "GIT/GITHUB"],
+    languages: ["*.js(advanced)" , "ReactJS"],
+    tools: ["HTML/CSS" , "TAILWIND/BOOTSTRAP" , "MUI" , "TailWind" , "GIT/GITHUB"],
     quote: "When there's a goal, the path can be found.",
     currently: Elevating_oneself_by_climbing_the_rope
   }
